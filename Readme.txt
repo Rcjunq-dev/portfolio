@@ -1,3 +1,11 @@
+Esse é um portifolio pessoal com meus trabalhos!
+Ainda estou iniciando nesse mundo de programação.
+
+Foi baseado no template iPortfolio.
+
+
+
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
